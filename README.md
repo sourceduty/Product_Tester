@@ -16,6 +16,8 @@ Confidentiality and clarity are key aspects of the Product Tester GPT. It mainta
 [Product Design](https://github.com/sourceduty/Product_Design)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Product Rating](https://github.com/sourceduty/Product_Rating)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
